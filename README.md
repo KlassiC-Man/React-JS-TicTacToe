@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React.js is a JavaScript Framework used to create responsive UI (User-Interfaces). You can create Amazing apps and websites using react!
+
+## How To Get Started
+This project is also available in the documentation of [React.js](https://reactjs.org/tutorial/tutorial)
+However if you dont want to take any trouble here you go. You can git clone it and then run `npm start` very easily to get started!
 
 ## Available Scripts
 
